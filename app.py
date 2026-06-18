@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Playlist 🎶")
 st.sidebar.title("Ache a opção perfeita")
-st.sidebar.image('Logo.png')
+st.sidebar.image('logo.png')
 
 
 
