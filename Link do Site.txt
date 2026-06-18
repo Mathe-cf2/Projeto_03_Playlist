@@ -1,1 +1,1 @@
-Aqui você vai colocar apenas o link do site no ar exemplo: mmotors.streamlit.app
+Aqui você vai colocar apenas o link do site no ar : https://projeto-playlist-mathcf.streamlit.app/
